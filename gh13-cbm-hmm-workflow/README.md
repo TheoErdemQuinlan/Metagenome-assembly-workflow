@@ -195,7 +195,3 @@ Archive the following with each scientific run:
 - random seed and requested reference counts;
 - the invalid-reference policy and number excluded, if any;
 - output checksum and the unrounded cutoff value in bits.
-
-Do not optimize a cutoff repeatedly on the same references and then present the final
-performance as an independent estimate. Freeze the cutoff before testing it on held-out
-references or candidates with experimentally established status.
