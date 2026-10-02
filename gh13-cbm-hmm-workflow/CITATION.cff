@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, cite this repository and the primary publications for CAZy, dbCAN, HMMER and PyHMMER."
+title: "GH13-CBM HMM Workflow"
+type: software
+authors:
+  - family-names: "Quinlan"
+    given-names: "Theodore"
+version: 0.1.0
+date-released: 2026-10-02
+license: MIT
+keywords:
+  - bioinformatics
+  - dbCAN
+  - GH13
+  - HMMER
+  - metagenomics
+  - PyHMMER
