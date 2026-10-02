@@ -199,24 +199,3 @@ Archive the following with each scientific run:
 Do not optimize a cutoff repeatedly on the same references and then present the final
 performance as an independent estimate. Freeze the cutoff before testing it on held-out
 references or candidates with experimentally established status.
-
-## Scientific dependencies and citation
-
-Methods based on this code should cite the versions actually used, together with the primary
-publications for CAZy, dbCAN, HMMER and PyHMMER:
-
-- Drula *et al.* (2022), CAZy, *Nucleic Acids Research* 50(D1):D571–D577,
-  [doi:10.1093/nar/gkab1045](https://doi.org/10.1093/nar/gkab1045).
-- Zheng *et al.* (2023), dbCAN3, *Nucleic Acids Research* 51(W1):W115–W121,
-  [doi:10.1093/nar/gkad328](https://doi.org/10.1093/nar/gkad328).
-- Eddy (2011), HMMER3, *PLoS Computational Biology* 7:e1002195,
-  [doi:10.1371/journal.pcbi.1002195](https://doi.org/10.1371/journal.pcbi.1002195).
-- Larralde and Zeller (2023), PyHMMER, *Bioinformatics* 39:btad214,
-  [doi:10.1093/bioinformatics/btad214](https://doi.org/10.1093/bioinformatics/btad214).
-
-Repository citation metadata are provided in [CITATION.cff](CITATION.cff).
-
-## Licence
-
-The source code in this repository is released under the [MIT License](LICENSE). Biological
-data, reference databases and profile HMMs are not distributed and are not relicensed here.
